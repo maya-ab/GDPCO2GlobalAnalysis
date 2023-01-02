@@ -8,6 +8,9 @@ Over the years, how does the relationship between GDP and CO2 emissions compare 
 
 How does the average CO2 emissions per capita of high GDP countries compare to low GDP countries, and the rest of the world? Has this changed over the years?
 
+- The coding process and exploratory data analysis can be found in the [analysis file](notebooks/analysis2.ipynb)
+- The summary of my findings can be found in the [summary file](analysisSummary.md)
+
 ## References
 
 Link to data sets:
